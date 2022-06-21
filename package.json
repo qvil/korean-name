@@ -1,0 +1,14 @@
+{
+  "name": "korean-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Taesu Hyeon <email@qvil.dev>",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "typescript": "^4.7.4"
+  }
+}
